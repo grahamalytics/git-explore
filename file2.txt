@@ -1,0 +1,1 @@
+How about looking into the difference btw merge and rebase?
