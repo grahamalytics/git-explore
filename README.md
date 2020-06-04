@@ -1,4 +1,5 @@
 # git-explore
 Placeholder repo for experimenting with git commands / workflows
 
-## first feature
+## first exploration
+Merge vs. Rebase
